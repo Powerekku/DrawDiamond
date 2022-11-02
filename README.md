@@ -1,3 +1,4 @@
 # DrawDiamond
 
-Rysuje romb, pusty w środku, tak jak ja
+Draws a diamond, empty inside, just like me
+
